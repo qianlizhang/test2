@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/arrow.png</file>
+        <file>res/lock.png</file>
+        <file>res/triangle.png</file>
+        <file>res/unlock.png</file>
+        <file>res/button3.jpg</file>
+        <file>res/peo.jpg</file>
+        <file>res/X.jpg</file>
+        <file>res/XX.jpg</file>
+        <file>res/Y.jpg</file>
+        <file>res/YY.jpg</file>
+        <file>res/Z.jpg</file>
+        <file>res/ZZ.jpg</file>
+        <file>res/button2.jpg</file>
+        <file>res/button1.jpg</file>
+    </qresource>
+</RCC>

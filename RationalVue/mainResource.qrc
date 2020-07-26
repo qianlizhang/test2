@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/mainResource">
+        <file>gui/MainWindow/zh.qm</file>
+        <file>default.qss</file>
+    </qresource>
+    <qresource prefix="/ui">
+        <file>gui/PaintZone/paintZoneDockwidget.ui</file>
+        <file>gui/OperationZoneLeft/operationZoneLeftDockwidget.ui</file>
+        <file>gui/LightControl/lightControlDockWidget.ui</file>
+        <file>gui/OperationZoneRight/operationzoneright.ui</file>
+        <file>gui/DataZoneLeft/dataZoneLeftDockWidget.ui</file>
+        <file>gui/MachineStatusZone/machineStatusZone.ui</file>
+        <file>gui/DataZoneRight/dataZoneRightDockWidget.ui</file>
+    </qresource>
+</RCC>

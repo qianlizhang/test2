@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/main.qss</file>
+        <file>css/qss.qss</file>
+        <file>css/styleSheet.css</file>
+        <file>images/add.png</file>
+        <file>images/cadmodels.png</file>
+        <file>images/del.png</file>
+        <file>images/focusplane.png</file>
+        <file>images/formerrorreports.png</file>
+        <file>images/mcs.png</file>
+        <file>images/pointclouds.png</file>
+        <file>images/reposition.png</file>
+        <file>images/sensor.png</file>
+    </qresource>
+</RCC>

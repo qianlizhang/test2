@@ -1,0 +1,359 @@
+﻿  Automatic MOC and UIC for target RationalVue
+  Automatic RCC for gui/DataZoneLeft/dataZoneLeftIcon.qrc
+  Automatic RCC for gui/DataZoneRight/res.qrc
+  Automatic RCC for gui/DimensionReportZone/occqt.qrc
+  Automatic RCC for gui/GraphiceZone/images.qrc
+  Automatic RCC for gui/LightControl/icons.qrc
+  Automatic RCC for gui/MachineStatusZone/res.qrc
+  Automatic RCC for gui/MainWindow/saribbonresouce.qrc
+  Automatic RCC for gui/MenuBarZone/resource.qrc
+  Automatic RCC for gui/OperationZoneLeft/it_icons.qrc
+  Automatic RCC for gui/OperationZoneRight/optzonerightresources.qrc
+  Automatic RCC for gui/PaintZone/ima_icons.qrc
+  Automatic RCC for gui/StatusBarZone/res.qrc
+  Automatic RCC for mainResource.qrc
+  Building Custom Rule D:/Application/Qt/RationalVue-master/CMakeLists.txt
+  mocs_compilation.cpp
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\gui/GraphiceZone/celementpickupscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\HCNetSDK\include\HCNetSDK.h(93): warning C4005: “NAME_LEN”: 宏重定义
+  d:\application\qt\rationalvue-master\mysql\include\mysql_com.h(27): note: 参见“NAME_LEN”的前一个定义
+  main.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(17): warning C4005: “M_E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(153): note: 参见“M_E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(18): warning C4005: “M_LOG2E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(157): note: 参见“M_LOG2E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(19): warning C4005: “M_LOG10E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(161): note: 参见“M_LOG10E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(20): warning C4005: “M_LN2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(165): note: 参见“M_LN2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(21): warning C4005: “M_LN10”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(169): note: 参见“M_LN10”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(22): warning C4005: “M_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(173): note: 参见“M_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(23): warning C4005: “M_PI_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(177): note: 参见“M_PI_2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(24): warning C4005: “M_PI_4”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(181): note: 参见“M_PI_4”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(25): warning C4005: “M_1_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(185): note: 参见“M_1_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(26): warning C4005: “M_2_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(189): note: 参见“M_2_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(27): warning C4005: “M_2_SQRTPI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(193): note: 参见“M_2_SQRTPI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(28): warning C4005: “M_SQRT2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(197): note: 参见“M_SQRT2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(29): warning C4005: “M_SQRT1_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(201): note: 参见“M_SQRT1_2”的前一个定义
+D:\Application\Qt\RationalVue-master\HCNetSDK\include\HCNetSDK.h(93): warning C4005: “NAME_LEN”: 宏重定义
+  d:\application\qt\rationalvue-master\mysql\include\mysql_com.h(27): note: 参见“NAME_LEN”的前一个定义
+  common.cpp
+  syscontroller.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(17): warning C4005: “M_E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(153): note: 参见“M_E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(18): warning C4005: “M_LOG2E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(157): note: 参见“M_LOG2E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(19): warning C4005: “M_LOG10E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(161): note: 参见“M_LOG10E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(20): warning C4005: “M_LN2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(165): note: 参见“M_LN2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(21): warning C4005: “M_LN10”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(169): note: 参见“M_LN10”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(22): warning C4005: “M_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(173): note: 参见“M_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(23): warning C4005: “M_PI_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(177): note: 参见“M_PI_2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(24): warning C4005: “M_PI_4”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(181): note: 参见“M_PI_4”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(25): warning C4005: “M_1_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(185): note: 参见“M_1_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(26): warning C4005: “M_2_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(189): note: 参见“M_2_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(27): warning C4005: “M_2_SQRTPI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(193): note: 参见“M_2_SQRTPI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(28): warning C4005: “M_SQRT2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(197): note: 参见“M_SQRT2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(29): warning C4005: “M_SQRT1_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(201): note: 参见“M_SQRT1_2”的前一个定义
+D:\Application\Qt\RationalVue-master\HCNetSDK\include\HCNetSDK.h(93): warning C4005: “NAME_LEN”: 宏重定义
+  d:\application\qt\rationalvue-master\mysql\include\mysql_com.h(27): note: 参见“NAME_LEN”的前一个定义
+  uwc.cpp
+  HKCamera.cpp
+  nvr.cpp
+  dataZoneLeft.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dataZoneListWidget.cpp
+D:\Application\Qt\RationalVue-master\gui\DataZoneLeft\dataZoneListWidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dataZoneRight.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dimensionReportZone.cpp
+  occQt.cpp
+  occView.cpp
+  celementpickupscene.cpp
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\celementpickupscene.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\gui\graphicezone\celementpickupscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\celementpickupscene.cpp(704): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\celementpickupscene.cpp(819): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\celementpickupscene.cpp(826): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\celementpickupscene.cpp(840): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  celementpickupview.cpp
+d:\application\qt\rationalvue-master\gui\graphicezone\celementpickupscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  cpaintview.cpp
+  cpaintzonemainwindow.cpp
+  graphiceZone.cpp
+d:\application\qt\rationalvue-master\gui\graphicezone\celementpickupscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  pemainwindow.cpp
+D:\Application\Qt\RationalVue-master\gui\GraphiceZone\pemainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\gui\graphicezone\celementpickupscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Application\Qt\RationalVue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  createLightControl.cpp
+D:\Application\Qt\RationalVue-master\gui\LightControl\createLightControl.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  lightCircle.cpp
+D:\Application\Qt\RationalVue-master\gui\LightControl\lightCircle.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  machineStatusZone.cpp
+D:\Application\Qt\RationalVue-master\gui\MachineStatusZone\machineStatusZone.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mainwindow.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(17): warning C4005: “M_E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(153): note: 参见“M_E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(18): warning C4005: “M_LOG2E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(157): note: 参见“M_LOG2E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(19): warning C4005: “M_LOG10E”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(161): note: 参见“M_LOG10E”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(20): warning C4005: “M_LN2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(165): note: 参见“M_LN2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(21): warning C4005: “M_LN10”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(169): note: 参见“M_LN10”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(22): warning C4005: “M_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(173): note: 参见“M_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(23): warning C4005: “M_PI_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(177): note: 参见“M_PI_2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(24): warning C4005: “M_PI_4”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(181): note: 参见“M_PI_4”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(25): warning C4005: “M_1_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(185): note: 参见“M_1_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(26): warning C4005: “M_2_PI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(189): note: 参见“M_2_PI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(27): warning C4005: “M_2_SQRTPI”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(193): note: 参见“M_2_SQRTPI”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(28): warning C4005: “M_SQRT2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(197): note: 参见“M_SQRT2”的前一个定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math_defines.h(29): warning C4005: “M_SQRT1_2”: 宏重定义
+  d:\application\qt5.9\5.9\msvc2017_64\include\qtcore\qmath.h(201): note: 参见“M_SQRT1_2”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MainWindow\mainwindow.cpp(55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  FramelessHelper.cpp
+  SARibbonApplicationButton.cpp
+  SARibbonBar.cpp
+  SARibbonButtonGroupWidget.cpp
+  SARibbonCategory.cpp
+  SARibbonCategoryLayout.cpp
+  SARibbonCheckBox.cpp
+  SARibbonComboBox.cpp
+  SARibbonContextCategory.cpp
+  SARibbonControlButton.cpp
+  SARibbonCtrlContainer.cpp
+  SARibbonDrawHelper.cpp
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(4): warning C4273: “SARibbonDrawHelper::SARibbonDrawHelper”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(14): note: 参见“{ctor}”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(9): warning C4273: “SARibbonDrawHelper::iconToPixmap”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(15): note: 参见“iconToPixmap”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(28): warning C4273: “SARibbonDrawHelper::drawIcon”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(16): note: 参见“drawIcon”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(48): warning C4273: “SARibbonDrawHelper::drawIcon”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(18): note: 参见“drawIcon”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(68): warning C4273: “SARibbonDrawHelper::iconActualSize”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(20): note: 参见“iconActualSize”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(86): warning C4273: “SARibbonDrawHelper::drawText”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(22): note: 参见“drawText”的前一个定义
+D:\Application\Qt\RationalVue-master\gui\MenuBarZone\SARibbonDrawHelper.cpp(96): warning C4273: “SARibbonDrawHelper::drawText”: dll 链接不一致
+  d:\application\qt\rationalvue-master\gui\menubarzone\SARibbonDrawHelper.h(24): note: 参见“drawText”的前一个定义
+  SARibbonElementCreateDelegate.cpp
+  SARibbonElementManager.cpp
+  SARibbonGallery.cpp
+  SARibbonGalleryGroup.cpp
+  SARibbonGalleryItem.cpp
+  正在生成代码...
+  正在编译...
+  SARibbonLineEdit.cpp
+  SARibbonMainWindow.cpp
+  SARibbonMenu.cpp
+  SARibbonPannel.cpp
+  SARibbonPannelOptionButton.cpp
+  SARibbonQuickAccessBar.cpp
+  SARibbonSeparatorWidget.cpp
+  SARibbonStackedWidget.cpp
+  SARibbonTabBar.cpp
+  SARibbonToolButton.cpp
+  SAWindowButtonGroup.cpp
+  createOperationZoneLeftControl.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  createoperationzoneright.cpp
+D:\Application\Qt\RationalVue-master\gui\OperationZoneRight\createoperationzoneright.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  createPaintZoneControl.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  statusBarZone.cpp
+d:\application\qt\rationalvue-master\common\Solution.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\application\qt\rationalvue-master\common\DesignerParameter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  WindowNotation.cpp
+D:\Application\Qt\RationalVue-master\gui\WindowNotation\WindowNotation.cpp(263): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  dbManager.cpp
+  newdb.cpp
+  CCurveFit.cpp
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CCurveFit.cpp(316): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CDocument.cpp
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\application\qt\rationalvue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\application\qt\rationalvue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\application\qt\rationalvue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  CHungarianAlg.cpp
+D:\Application\Qt\RationalVue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CHungarianAlg.cpp(26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CHungarianAlg.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CImageMatching.cpp
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+  CKalman.cpp
+  CObjectDetection.cpp
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+  CTracker.cpp
+D:\Application\Qt\RationalVue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(80): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(171): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(172): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(412): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(413): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(838): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\CTracker.cpp(839): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CTracking.cpp
+D:\Application\Qt\RationalVue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Application\Qt\RationalVue-master\detect\DetectResults.h(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CVibe.cpp
+d:\application\qt\rationalvue-master\detect\CParams.h(73): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(84): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(86): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(92): warning C4305: “初始化”: 从“double”到“float”截断
+d:\application\qt\rationalvue-master\detect\CParams.h(95): warning C4305: “初始化”: 从“double”到“float”截断
+  Ctrack.cpp
+  qrc_dataZoneLeftIcon.cpp
+  qrc_occqt.cpp
+  qrc_images.cpp
+  qrc_icons.cpp
+  qrc_saribbonresouce.cpp
+  qrc_resource.cpp
+  qrc_it_icons.cpp
+  qrc_optzonerightresources.cpp
+  qrc_ima_icons.cpp
+  qrc_mainResource.cpp
+  正在生成代码...
+d:\application\qt\rationalvue-master\detect\cvibe.cpp(628): warning C4715: “CVibe::InitialOpencl”: 不是所有的控件路径都返回值
+  qrc_res.cpp
+  qrc_res.cpp
+  qrc_res.cpp
+    正在创建库 D:/Application/Qt/RationalVue-master/build/Debug/RationalVue.lib 和对象 D:/Application/Qt/RationalVue-master/build/Debug/RationalVue.exp
+SARibbonCtrlContainer.obj : warning LNK4217: 本地定义的符号 ?drawIcon@SARibbonDrawHelper@@SAXAEBVQIcon@@PEAVQPainter@@PEBVQStyleOption@@HHHH@Z (public: static void __cdecl SARibbonDrawHelper::drawIcon(class QIcon const &,class QPainter *,class QStyleOption const *,int,int,int,int)) 在函数 "protected: virtual void __cdecl SARibbonCtrlContainer::paintEvent(class QPaintEvent *)" (?paintEvent@SARibbonCtrlContainer@@MEAAXPEAVQPaintEvent@@@Z) 中导入
+SARibbonCtrlContainer.obj : warning LNK4217: 本地定义的符号 ?iconActualSize@SARibbonDrawHelper@@SA?AVQSize@@AEBVQIcon@@PEBVQStyleOption@@AEBV2@@Z (public: static class QSize __cdecl SARibbonDrawHelper::iconActualSize(class QIcon const &,class QStyleOption const *,class QSize const &)) 在函数 "protected: virtual void __cdecl SARibbonCtrlContainer::paintEvent(class QPaintEvent *)" (?paintEvent@SARibbonCtrlContainer@@MEAAXPEAVQPaintEvent@@@Z) 中导入
+SARibbonToolButton.obj : warning LNK4049: 已导入本地定义的符号 ?iconActualSize@SARibbonDrawHelper@@SA?AVQSize@@AEBVQIcon@@PEBVQStyleOption@@AEBV2@@Z (public: static class QSize __cdecl SARibbonDrawHelper::iconActualSize(class QIcon const &,class QStyleOption const *,class QSize const &))
+SARibbonCtrlContainer.obj : warning LNK4217: 本地定义的符号 ?drawText@SARibbonDrawHelper@@SAXAEBVQString@@PEAVQStylePainter@@PEBVQStyleOption@@V?$QFlags@W4AlignmentFlag@Qt@@@@AEBVQRect@@@Z (public: static void __cdecl SARibbonDrawHelper::drawText(class QString const &,class QStylePainter *,class QStyleOption const *,class QFlags<enum Qt::AlignmentFlag>,class QRect const &)) 在函数 "protected: virtual void __cdecl SARibbonCtrlContainer::paintEvent(class QPaintEvent *)" (?paintEvent@SARibbonCtrlContainer@@MEAAXPEAVQPaintEvent@@@Z) 中导入
+SARibbonToolButton.obj : warning LNK4217: 本地定义的符号 ?iconToPixmap@SARibbonDrawHelper@@SA?AVQPixmap@@AEBVQIcon@@PEAVQWidget@@PEBVQStyleOption@@AEBVQSize@@@Z (public: static class QPixmap __cdecl SARibbonDrawHelper::iconToPixmap(class QIcon const &,class QWidget *,class QStyleOption const *,class QSize const &)) 在函数 "protected: virtual void __cdecl SARibbonToolButton::drawIconAndLabel(class QPainter &,class QStyleOptionToolButton const &)" (?drawIconAndLabel@SARibbonToolButton@@MEAAXAEAVQPainter@@AEBVQStyleOptionToolButton@@@Z) 中导入
+Qt5UiToolsd.lib(abstractformbuilder.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(abstractformbuilder.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(formbuilder.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(formbuilder.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(ui4.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(ui4.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(properties.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(properties.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(formbuilderextra.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(formbuilderextra.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(resourcebuilder.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(resourcebuilder.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(textbuilder.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(textbuilder.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(quiloader.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(quiloader.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(moc_properties_p.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(moc_properties_p.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(moc_quiloader.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(moc_quiloader.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5UiToolsd.lib(Qt5UiToolsd_pch.obj) : warning LNK4099: 未找到 PDB“Qt5UiToolsd.pdb”(使用“Qt5UiToolsd.lib(Qt5UiToolsd_pch.obj)”或在“D:\Application\Qt\RationalVue-master\build\Debug\Qt5UiToolsd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  RationalVue.vcxproj -> D:\Application\Qt\RationalVue-master\build\Debug\RationalVue.exe

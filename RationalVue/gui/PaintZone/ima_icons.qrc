@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ima_icons/1.1.png</file>
+        <file>ima_icons/1.2.png</file>
+        <file>ima_icons/1.3.png</file>
+        <file>ima_icons/1.4.png</file>
+        <file>ima_icons/1.5.png</file>
+        <file>ima_icons/1.6.png</file>
+        <file>ima_icons/1.7.png</file>
+        <file>ima_icons/1.8.png</file>
+        <file>ima_icons/1.9.png</file>
+        <file>ima_icons/2.1.png</file>
+        <file>ima_icons/2.2.png</file>
+        <file>ima_icons/2.3.png</file>
+        <file>ima_icons/2.4.png</file>
+        <file>ima_icons/2.5.png</file>
+        <file>ima_icons/3.1.png</file>
+        <file>ima_icons/3.2.png</file>
+        <file>ima_icons/3.3.png</file>
+        <file>ima_icons/3.4.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/1.png</file>
+        <file>icon/2.png</file>
+        <file>icon/3.png</file>
+        <file>icon/4.png</file>
+        <file>icon/5.png</file>
+        <file>icon/6.png</file>
+        <file>icon/7.png</file>
+        <file>icon/8.png</file>
+        <file>icon/9.png</file>
+        <file>icon/arc_red.png</file>
+        <file>icon/cir_blue.png</file>
+        <file>icon/cir_red.png</file>
+        <file>icon/goto.png</file>
+        <file>icon/ln_green.png</file>
+        <file>icon/ln_red.png</file>
+        <file>icon/macro.png</file>
+        <file>icon/output.png</file>
+        <file>icon/tagr.png</file>
+        <file>icon/tcro.png</file>
+        <file>icon/tdm.png</file>
+        <file>icon/tdst.png</file>
+        <file>icon/tp2d.png</file>
+        <file>icon/tpfl.png</file>
+        <file>icon/tvir.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>GCV1.png</file>
+        <file>GenericIcon.png</file>
+        <file>MiddleFeature.png</file>
+        <file>NomActIcon1.png</file>
+        <file>NomActIcon2.png</file>
+        <file>PT_COG1.png</file>
+    </qresource>
+</RCC>

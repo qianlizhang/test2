@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>it_icons/1.1.png</file>
+        <file>it_icons/1.2.png</file>
+        <file>it_icons/1.3.png</file>
+        <file>it_icons/1.4.png</file>
+        <file>it_icons/2.1.png</file>
+        <file>it_icons/2.2.png</file>
+        <file>it_icons/2.3.png</file>
+        <file>it_icons/2.4.png</file>
+        <file>it_icons/2.5.png</file>
+        <file>it_icons/2.6.png</file>
+        <file>it_icons/2.7.png</file>
+        <file>it_icons/2.8.png</file>
+        <file>it_icons/2.9.png</file>
+        <file>it_icons/2.10.png</file>
+        <file>it_icons/2.11.png</file>
+        <file>it_icons/2.12.png</file>
+        <file>it_icons/2.13.png</file>
+        <file>it_icons/2.14.png</file>
+    </qresource>
+</RCC>

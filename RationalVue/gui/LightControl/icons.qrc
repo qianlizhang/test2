@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/light_off.png</file>
+        <file>icons/light_on.png</file>
+        <file>icons/light_mod_1.png</file>
+        <file>icons/light_mod_2.png</file>
+        <file>icons/light_mod_3.png</file>
+        <file>icons/light_mod_4.png</file>
+        <file>icons/light_handle.png</file>
+    </qresource>
+</RCC>

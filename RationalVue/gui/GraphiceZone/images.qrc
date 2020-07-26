@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>images/1.png</file>
+        <file>images/arc.png</file>
+        <file>images/bezier.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/lines.png</file>
+        <file>images/open.png</file>
+        <file>images/pie.png</file>
+        <file>images/rect.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/texts.png</file>
+        <file>images/FitAll.png</file>
+        <file>images/Pan.png</file>
+        <file>images/Rotate.png</file>
+        <file>images/Zoom.png</file>
+        <file>images/Home.png</file>
+        <file>images/circle.png</file>
+    </qresource>
+</RCC>
